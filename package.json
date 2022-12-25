@@ -1,0 +1,16 @@
+{
+  "name": "convert-heic-to-jpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ahmed Abd Rb Alrasol",
+  "license": "ISC",
+  "dependencies": {
+    "heic-convert": "^1.2.4",
+    "sharp": "^0.31.3"
+  }
+}
